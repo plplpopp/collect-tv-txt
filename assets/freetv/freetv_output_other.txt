@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250129 07:53:02,url
+20250130 07:53:28,url
 
 
 freetv_other,#genre#
@@ -55,7 +55,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-9.ctv
 [BD]tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 [BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-1.ctv
 [BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
-[BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
 [BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 [BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
 [BD]凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
@@ -68,8 +67,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-9.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
-[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
-[BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
 [BD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
@@ -106,6 +103,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-9.ctv
 [HD]凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
 [HD]凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-12.ctv
 [HD]凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+[HD]凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
 [HD]有线新,https://stream1.freetv.fun/you-xian-xin-1.m3u8
 [HD]有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-10.m3u8
 [HD]有线新闻,https://stream1.freetv.fun/you-xian-xin-wen-11.m3u8
